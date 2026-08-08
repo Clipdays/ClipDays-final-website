@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+<defs><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#dbe6f2"/></linearGradient></defs>
+<rect width="900" height="520" rx="42" fill="#f4f8fc"/>
+<ellipse cx="450" cy="415" rx="220" ry="32" fill="#cfd9e8" opacity=".55"/>
+<rect x="375" y="300" width="150" height="105" rx="24" fill="#0b1e3f"/>
+<rect x="398" y="257" width="104" height="70" rx="22" fill="#173a70"/>
+<path d="M326 170 Q450 95 574 170 L540 286 Q450 340 360 286Z" fill="url(#g3)" stroke="#aebbd0" stroke-width="4"/>
+<rect x="348" y="184" width="204" height="94" rx="42" fill="#0a1325"/>
+<circle cx="450" cy="231" r="48" fill="#13243e" stroke="#6ec9ff" stroke-width="4"/>
+<circle cx="450" cy="231" r="23" fill="#2f6bff"/><circle cx="450" cy="231" r="9" fill="#b9e7ff"/>
+<path d="M345 160c-70-25-122-10-166 23" stroke="#6ec9ff" stroke-width="4" fill="none"/><path d="M555 160c70-25 122-10 166 23" stroke="#6ec9ff" stroke-width="4" fill="none"/>
+<text x="450" y="470" text-anchor="middle" font-family="Inter,Arial" font-size="24" fill="#0b1e3f" font-weight="700">PTZ OPTICAL-ZOOM CAMERA</text>
+</svg>
