@@ -29,6 +29,7 @@ export function SiteHeader() {
         <a className="nav-contact" href="#contact">
           Discuss your venue <span aria-hidden="true">↗</span>
         </a>
+        <a className="language-link" href="/zh" lang="zh-CN">中文</a>
         <button
           className="menu-button"
           type="button"

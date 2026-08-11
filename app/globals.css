@@ -272,6 +272,15 @@ p {
   transition: color 160ms ease, background 160ms ease;
 }
 
+.language-link {
+  padding: 7px 9px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 9px;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 12px;
+  white-space: nowrap;
+}
+
 .nav-links a:hover {
   color: #fff;
 }
